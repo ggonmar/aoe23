@@ -49,6 +49,6 @@ def part2(entries):
     print(total)
     return total
 
-entries=reader.read("day1.txt","LINES")
+entries=reader.read("input.txt","LINES")
 part1(entries)
 part2(entries)
